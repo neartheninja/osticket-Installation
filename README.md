@@ -39,9 +39,11 @@ We will start by opening the start menu search bar amd type "Windows Features" f
 
 <p>
 <a href="https://imgur.com/UhQlbBF"><img src="https://i.imgur.com/UhQlbBF.jpg" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/Ei6JlCe"><img src="https://i.imgur.com/Ei6JlCe.jpg" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/2e4ZSlI"><img src="https://i.imgur.com/2e4ZSlI.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-After the IIS finishes installing, we will go to the installation folder from the link and download the WebPlatformInstaller file. The file will download this launcher as shown above, go through the installation when complete the following will appear.
+After the IIS finishes installing, we will go to the installation folder from the link and download the WebPlatformInstaller file. The file will download this launcher as shown above, go through the installation when complete the following will appear. We will also install the MYSQL 5.5 server from Installation folder.  
 </p>
 <br />
 
@@ -49,16 +51,13 @@ After the IIS finishes installing, we will go to the installation folder from th
 <a href="https://imgur.com/DejM79d"><img src="https://i.imgur.com/DejM79d.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Once we select finish we will then head over to the windows search and type in  web platform. The Web Platform Installer 5.1 should appear, moving to the search bar at the top right we will type in MySQL and select the MySQL Windows 5.5 released 9/9/2015.
+Once we select finish we will then head over to the windows search and type in  web platform. The Web Platform Installer should appear, open it and type in PHP in the search bar and sort by name. Proceed to install all PHP 32-bit vers (x86) up until 7.4.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/j7Q72F4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<p>
-Next after adding MySQL go back to the search bar and type PHP. From there filter the names by pressing name and locate the PHP ....(x86) files you want to add them up until you reach PHP 7.4.13 (x86). The image above from the lab shows the exact files, there should be exactly 12 items to be installed after selecting the files.
-</p>
 <br />
 <p>
 <img src="https://i.imgur.com/g209LMw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
