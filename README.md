@@ -33,23 +33,23 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 <a href="https://imgur.com/HkQgyCB"><img src="https://i.imgur.com/HkQgyCB.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-We will start by opening the start menu search bar amd type "Windows Features" from there you will click "turn window features on or off"  This will pull up a window with a list of folders and checkboxes.  from there we will select the IIS(Information Internet Services) and let the IIS install.
+We will start by opening the start menu search bar amd type "Windows Features" from there you will click "turn window features on or off"  This will pull up a window with a list of folders and checkboxes. From there we will select the IIS(Information Internet Services) and let the IIS install.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/xyCY5M7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/UhQlbBF"><img src="https://i.imgur.com/UhQlbBF.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Now after we have the IIS finish, we will go to the google doc and download the WebPlatformInstaller file. The file will download this launcher as shown above, go through the installation when complete the following will appear.
+After the IIS finishes installing, we will go to the installation folder from the link and download the WebPlatformInstaller file. The file will download this launcher as shown above, go through the installation when complete the following will appear.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/93ejQfx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/DejM79d"><img src="https://i.imgur.com/DejM79d.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Once we select finish we will then head over to the windows search and type in platform. The Web Platform Installer 5.1 should appear. moving to the search bar at the top right we will type in MySQL and select the MySQL Windows 5.5 released 9/9/2015.
+Once we select finish we will then head over to the windows search and type in  web platform. The Web Platform Installer 5.1 should appear, moving to the search bar at the top right we will type in MySQL and select the MySQL Windows 5.5 released 9/9/2015.
 </p>
 <br />
 <p>
