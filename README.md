@@ -18,19 +18,17 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 <h2>Installation requirements</h2>
 
+- Azure Subscription
 - VM (Virtual Machine)
 - RDP (Remote Desktop Connection)
-- Google Drive file (<a href='https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6'>Link</a>)
+- Google Drive file (<a href='https://drive.google.com/drive/folders/1Loma_9mi_q4fS4aQbUmUddWVsEdp_13n?usp=share_link'>Link</a>)
 - Internet Information Service (IIS) set up
-- Most importantly a Wifi connection
 
 <h2>Installation Steps</h2>
 
+
 <p>
-This is the installation portion of the osTicket Lab. If you missed the previous steps here is the <a href="https://github.com/DevilDog2001/osticket-prereqs">Link.</a>
-</p>
-<p>
-<img src="https://i.imgur.com/rdVp6Sn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgur.com/HkQgyCB"><img src="https://i.imgur.com/HkQgyCB.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
 Continuing from where we left off within the VM. We want to now open a windows control panel and head to programs, form programs select program and feature. Now within the program and features there will be a selection called Turn windows features on or off on the left hand side, select that button. And the following will be prompted on your screen, from there we will select the IIS(Information Internet Services) and let the IIS install.
