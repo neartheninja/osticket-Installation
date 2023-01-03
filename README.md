@@ -153,9 +153,9 @@ Final step, head back to the folder where we were in the include folder. From th
 <img src="https://i.imgur.com/2kYWhCm.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-To end off the installation for osTicket. Head into the osTicket folder by <strong>clicking on This PC --> then windows (C:) --> select inetpub --> wwwroot --> and finally select osTicket.</strong> There we must delete the setup folder, in order to do so we must delete the contents with the folder. After deleting the contents within the setup folder we can move onto deleting the setup folder from osTicket. And congradulations you have completed the osTicket Installation.
+To end the installation for osTicket. Head into the osTicket folder by <strong>clicking on This PC --> then windows (C:) --> select inetpub --> wwwroot --> and finally select osTicket.</strong> There we must delete the setup folder, in order to do so we must delete the contents with the folder. After deleting the contents within the setup folder we can move onto deleting the setup folder from osTicket. And congradulations you have completed the osTicket Installation.
 </p>
 <br />
 <p>
-This will conclude the Installation for the osTicket Lab. The next section we will begin to use osTicket and begin with the configurations. Next section <a href='https://github.com/DevilDog2001/osTicket-configurations'>Configurations</a> .
+This concludes the Installation for the osTicket Lab.
 </p>
