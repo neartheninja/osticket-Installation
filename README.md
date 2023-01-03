@@ -91,29 +91,28 @@ Once you are done with the last step we want to head to are windows search bar a
 <p>
 <img src="https://i.imgur.com/KIGAyir.png" height="80%" width="80%" alt="Steps"/>
 </p>
-<p>
-After we are going to select the PHP Manager within the osTicket Home located in the center. From there <strong>select Enable or disable an extension, look for php_imap.dll is enable along with php_intl.dll and php_opcache.dll.</strong>
+<p> Afterwards you are going to select the PHP Manager within the osTicket Home located in the center. From there <strong>select Enable or disable an extension, look for php_imap.dll is enable along with php_intl.dll and php_opcache.dll.</strong>
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/dRGPdWI.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Now we head back to are wwwroot folder within file explorer, from there we select <strong>osTicket--> Then include</strong>. When inside the include folder scroll down to the ost-sampleconfig.php to ost-config.php as shown above.
+Now we head back to are wwwroot folder within file explorer, from there we select <strong>osTicket--> Then include</strong>. When inside the "include" folder scroll down to the ost-sampleconfig.php to ost-config.php as shown above.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/cHBdPn3.png" height="80%" width="80%" alt="Steps"/>
 </p>
 <p>
-After we changed the ost-sampleconfig.php to ost-config.php we will <strong>open its properties then --> open security --> click on advance --> then disable inheritance --> add permission --> select principle at the top left --> from there within the open box below for objects type everyone --> select Check Names --> and select ok --> on the following page select full control to give all basic permissions besides Special permissions for everyone</strong>. Your security panel should display whats above with everyone and full control under access.
+After we changed the ost-sampleconfig.php to ost-config.php we will <strong>open its properties then -> open security -> click on advance -> then disable inheritance -> add permission -> select principle at the top left -> from there within the open box below for objects type everyone -> select Check Names -> and select ok -> on the following page select full control to give all basic permissions besides Special permissions for everyone</strong>. Your security panel should display whats above with everyone and full control under access.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/vCXWto2.png" height="80%" width="80%" alt="Steps"/>
 </p>
 <p>
-If you've reached this page all the following steps have been completed successfully. Now simple fill out all the information as shown<strong>(Document The Admin User portion as well as the Database setting username and password will be needed for the lab).</strong>
+ If you have reached the installation page for osticket, all the previous steps have been completed successfully. Now simple fill out all the information as shown (Document The Admin User portion as well as the Database setting username and password will be needed for the lab).
 </p>
 <br />
 <p>
@@ -127,14 +126,13 @@ Next we head back into are <a href='https://drive.google.com/drive/u/0/folders/1
 <img src="https://i.imgur.com/GhJrKSP.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Select the add button on the button left, Heidi will prompt you to put in the password you create earlier when downloading the php files within WebPlatformInstaller 5.1. Enter the password and you will be sent to the page shown.Next <strong>rightclick unnamed --> then hover over create new --> and select Database</strong>. Name that dataase osTicket<strong>(it is important the spelling is correct)</strong>.
-</p>
+Select the add button on the button left, Heidi will prompt you to put in the password you create earlier when downloading the php files within WebPlatformInstaller 5.1. Enter the password and you will be sent to the page shown.Next <strong>rightclick unnamed -> then hover over create new -> and select Database</strong>. Name that database osTicket
 <br />
 <p>
 <img src="https://i.imgur.com/wvurZnY.png" height="80%" width="80%" alt=" Steps"/>
 </p>
 <p>
-Now go back to the osTicket web browser as shown above and enter the new database name along with the respected credentials. Press install and wait for the page to load.
+Now go back to the osTicket web browser as shown above and enter the new database name along with the respected credentials. Install and wait for the page to load.
 </p>
 <br />
 <p>
