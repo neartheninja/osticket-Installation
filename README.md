@@ -26,12 +26,14 @@ This tutorial outlines the installation of the open-source help desk ticketing s
 
 <h2>Installation Steps</h2>
 
-
+<p>
+<a href="https://imgur.com/3y3BBgV"><img src="https://i.imgur.com/3y3BBgV.jpg" title="source: imgur.com" /></a>
+</p>
 <p>
 <a href="https://imgur.com/HkQgyCB"><img src="https://i.imgur.com/HkQgyCB.jpg" title="source: imgur.com" /></a>
 </p>
 <p>
-Continuing from where we left off within the VM. We want to now open a windows control panel and head to programs, form programs select program and feature. Now within the program and features there will be a selection called Turn windows features on or off on the left hand side, select that button. And the following will be prompted on your screen, from there we will select the IIS(Information Internet Services) and let the IIS install.
+We will start by opening the start menu search bar amd type "Windows Features" from there you will click "turn window features on or off"  This will pull up a window with a list of folders and checkboxes.  from there we will select the IIS(Information Internet Services) and let the IIS install.
 </p>
 <br />
 
